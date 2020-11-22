@@ -1,7 +1,7 @@
 # Autoencoders-and-GAN
 
 ## GAN
-A Generative Adverserial network is trained to generate image of 0 from the MNIST dataset 
+A Generative Adversarial network is trained to generate image of 0 from the MNIST dataset 
 
 ## Autoencoder
 An Autoencoder is trained on the eating habits of the 4 countries on the island of GreatBritian. 
